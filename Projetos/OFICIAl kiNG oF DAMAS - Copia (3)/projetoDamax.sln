@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projetoDamax", "projetoDamax\projetoDamax.csproj", "{351DB0B6-9B67-4A41-AF30-9AF474F29EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351DB0B6-9B67-4A41-AF30-9AF474F29EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351DB0B6-9B67-4A41-AF30-9AF474F29EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351DB0B6-9B67-4A41-AF30-9AF474F29EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351DB0B6-9B67-4A41-AF30-9AF474F29EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

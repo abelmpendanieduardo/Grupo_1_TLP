@@ -1,0 +1,19 @@
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe.config
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\bin\Debug\jogodavelha.pdb
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csprojResolveAssemblyReference.cache
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Form1.resources
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Properties.Resources.resources
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.GenerateResource.Cache
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\obj\Debug\jogodavelha.exe
+c:\users\alberto marcos\documents\visual studio 2015\Projects\jogodavelha\jogodavelha\obj\Debug\jogodavelha.pdb
+D:\DevJG\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe.config
+D:\DevJG\jogodavelha\jogodavelha\obj\Debug\jogodavelha.exe
+D:\DevJG\jogodavelha\jogodavelha\obj\Debug\jogodavelha.pdb
+D:\DevJG\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe
+D:\DevJG\jogodavelha\jogodavelha\bin\Debug\jogodavelha.pdb
+D:\DevJG\jogodavelha\jogodavelha\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DevJG\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csprojResolveAssemblyReference.cache
+D:\DevJG\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Form1.resources
+D:\DevJG\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Properties.Resources.resources
+D:\DevJG\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.GenerateResource.Cache

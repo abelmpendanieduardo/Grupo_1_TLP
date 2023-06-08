@@ -1,0 +1,6 @@
+D:\DevJG\jogodavelha\jogodavelha\bin\Release\jogodavelha.exe.config
+D:\DevJG\jogodavelha\jogodavelha\obj\Release\jogodavelha.Form1.resources
+D:\DevJG\jogodavelha\jogodavelha\obj\Release\jogodavelha.Properties.Resources.resources
+D:\DevJG\jogodavelha\jogodavelha\obj\Release\jogodavelha.csproj.GenerateResource.Cache
+D:\DevJG\jogodavelha\jogodavelha\obj\Release\jogodavelha.exe
+D:\DevJG\jogodavelha\jogodavelha\obj\Release\jogodavelha.pdb

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{193A8B32-418F-401C-A9C3-84A550CAC399}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VS_Web</RootNamespace>
+    <AssemblyName>VS_Web</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Internet-Explorer_25190.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.TeamFoundation.Client, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.TeamFoundation.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.TeamFoundation.WorkItemTracking.Client, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.TeamFoundation.WorkItemTracking.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.TeamFoundation.WorkItemTracking.ControlsCore, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="computer-engineering-science-tech-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="back_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="back_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="back_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="back_to_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="chevron_right_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="chevron_right_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="double_left_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="double_left_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="double_left_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="double_right_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="double_right_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="download_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="download_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="f.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="facebook_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="google_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="home_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="home_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="instagram_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="refresh_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="search_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="search_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="search_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="search_240px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="secured_letter_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="twitter_squared_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="whatsapp_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="youtube_play_button_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="exit_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="menu_vertical_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Internet-Explorer_25190.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

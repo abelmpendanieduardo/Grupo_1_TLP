@@ -1,0 +1,11 @@
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\VS_CalculadoraCientifica.exe.config
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.csprojResolveAssemblyReference.cache
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.Form1.resources
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.Properties.Resources.resources
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.csproj.GenerateResource.Cache
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\VS_CalculadoraCientifica.exe
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\VS_CalculadoraCientifica.pdb
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\bin\Debug\Guna.UI2.dll
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.exe
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.pdb
+C:\Users\Hevel Dev\Documents\Grupo_1_TLP\Projetos\VS_CalculadoraCientifica\VS_CalculadoraCientifica\obj\Debug\VS_CalculadoraCientifica.Calculadora.resources

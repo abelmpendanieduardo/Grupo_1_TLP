@@ -1,0 +1,39 @@
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\bin\Debug\JogoVelha.pdb
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Properties.Resources.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.GenerateResource.Cache
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.janelapri.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.JanelaJogo.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Tarefas_TLP_2023\JogoVelha\JogoVelha\obj\Debug\JogoVelha.JanelaNome.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\bin\Debug\JogoVelha.pdb
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.janelapri.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.JanelaJogo.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Properties.Resources.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.GenerateResource.Cache
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Desenvolvidores.resources
+C:\Users\Gabriel Coquela\Documents\Visual Studio 2015\Projects\Projectos_Escola\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Sobre_Jogo.resources
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\bin\Debug\JogoVelha.pdb
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.AssemblyReference.cache
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Desenvolvidores.resources
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Sobre_Jogo.resources
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.janelapri.resources
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.JanelaJogo.resources
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Properties.Resources.resources
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.GenerateResource.cache
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+C:\Users\TRADE TRACKX 2\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb
+C:\Users\ALBERTO MARCOS\Downloads\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+C:\Users\ALBERTO MARCOS\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+C:\Users\ALBERTO MARCOS\Downloads\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb

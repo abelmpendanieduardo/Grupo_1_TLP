@@ -1,0 +1,13 @@
+D:\Projectos\Calculadora\Calculadora\bin\Release\Calculadora.exe.config
+D:\Projectos\Calculadora\Calculadora\bin\Release\Calculadora.exe.manifest
+D:\Projectos\Calculadora\Calculadora\bin\Release\Calculadora.application
+D:\Projectos\Calculadora\Calculadora\bin\Release\Calculadora.exe
+D:\Projectos\Calculadora\Calculadora\bin\Release\Calculadora.pdb
+D:\Projectos\Calculadora\Calculadora\bin\Release\Guna.UI2.dll
+D:\Projectos\Calculadora\Calculadora\obj\Release\Calculadora.Calculadora.resources
+D:\Projectos\Calculadora\Calculadora\obj\Release\Calculadora.Properties.Resources.resources
+D:\Projectos\Calculadora\Calculadora\obj\Release\Calculadora.csproj.GenerateResource.Cache
+D:\Projectos\Calculadora\Calculadora\obj\Release\Calculadora.exe.manifest
+D:\Projectos\Calculadora\Calculadora\obj\Release\Calculadora.application
+D:\Projectos\Calculadora\Calculadora\obj\Release\Calculadora.exe
+D:\Projectos\Calculadora\Calculadora\obj\Release\Calculadora.pdb

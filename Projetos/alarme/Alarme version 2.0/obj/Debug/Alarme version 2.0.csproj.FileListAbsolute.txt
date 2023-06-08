@@ -1,0 +1,10 @@
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\bin\Debug\Alarme version 2.0.exe.config
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\bin\Debug\Alarme version 2.0.exe
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\bin\Debug\Alarme version 2.0.pdb
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\obj\Debug\Alarme version 2.0.csproj.AssemblyReference.cache
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\obj\Debug\Alarme_version_2._0.Form1.resources
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\obj\Debug\Alarme_version_2._0.Properties.Resources.resources
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\obj\Debug\Alarme version 2.0.csproj.GenerateResource.cache
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\obj\Debug\Alarme version 2.0.csproj.CoreCompileInputs.cache
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\obj\Debug\Alarme version 2.0.exe
+C:\Users\LENOOVO\source\repos\Alarme version 2.0\Alarme version 2.0\obj\Debug\Alarme version 2.0.pdb

@@ -1,0 +1,10 @@
+D:\Projectos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Projectos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Projectos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Projectos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Projectos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Projectos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Projectos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Projectos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Projectos\Calculadora\Calculadora\bin\Debug\Guna.UI2.dll
+D:\Projectos\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
